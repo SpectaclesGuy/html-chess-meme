@@ -1,0 +1,19 @@
+#heading{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+}
+*{
+    background-color: black;
+}
+#para{
+    color: white;
+    text-align: center;
+}
+#image{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0%;
+    border: 5px solid white;
+}
